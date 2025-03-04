@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\C#Bootcamp\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC68565-90BF-4D46-A605-64F1AE6E8E57}|EmployeeManagement.csproj|c:\\dev\\c#bootcamp\\employeemanagement\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC68565-90BF-4D46-A605-64F1AE6E8E57}|EmployeeManagement.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC68565-90BF-4D46-A605-64F1AE6E8E57}|EmployeeManagement.csproj|c:\\dev\\c#bootcamp\\employeemanagement\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC68565-90BF-4D46-A605-64F1AE6E8E57}|EmployeeManagement.csproj|solutionrelative:repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC68565-90BF-4D46-A605-64F1AE6E8E57}|EmployeeManagement.csproj|c:\\dev\\c#bootcamp\\employeemanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC68565-90BF-4D46-A605-64F1AE6E8E57}|EmployeeManagement.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\C#Bootcamp\\EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Dev\\C#Bootcamp\\EmployeeManagement\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:18:28.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\C#Bootcamp\\EmployeeManagement\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Dev\\C#Bootcamp\\EmployeeManagement\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:15:25.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\C#Bootcamp\\EmployeeManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Dev\\C#Bootcamp\\EmployeeManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:00:47.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
